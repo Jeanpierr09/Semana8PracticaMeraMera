@@ -1,7 +1,5 @@
 package edu.pizza.base;
 
-import edu.pizza.base.Topping;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
